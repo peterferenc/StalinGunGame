@@ -1,0 +1,15 @@
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\StalinGunGame.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\StalinGunGame.pdb
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\Assembly-CSharp.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\Rocket.API.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\Rocket.Core.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\Rocket.Unturned.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\SDG.NetTransport.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\bin\Debug\UnityEngine.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\obj\Debug\StalinGunGame.csproj.AssemblyReference.cache
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\obj\Debug\StalinGunGame.csproj.CoreCompileInputs.cache
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\obj\Debug\StalinGunGame.csproj.CopyComplete
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\obj\Debug\StalinGunGame.dll
+C:\Users\Adminovics\source\repos\StalinGunGame\StalinGunGame\obj\Debug\StalinGunGame.pdb
